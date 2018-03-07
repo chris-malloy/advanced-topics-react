@@ -4,7 +4,7 @@ The project serves as a sandbox playground to learn various advanced topics such
 
 ***
 
-[Installation](https://github.com/chris-malloy/video-player#installation) | [Testing](https://github.com/chris-malloy/video-player#testing) | [Challenges and Solutions](https://github.com/chris-malloy/video-player#challenges-and-solutions) | [Code Snippets](https://github.com/chris-malloy/video-player#code-snippets) | [Acknowledgements](https://github.com/chris-malloy/video-player#acknowledgements)
+[Installation](https://github.com/chris-malloy/advanced-topics-react#installation) | [Testing](https://github.com/chris-malloy/advanced-topics-react#testing) | [Challenges and Solutions](https://github.com/chris-malloy/advanced-topics-react#challenges-and-solutions) | [Code Snippets](https://github.com/chris-malloy/advanced-topics-react#code-snippets) | [Acknowledgements](https://github.com/chris-malloy/advanced-topics-react#acknowledgements)
 
 ***
 
